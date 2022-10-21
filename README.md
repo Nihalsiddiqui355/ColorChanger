@@ -5,7 +5,7 @@ A mini project in which i challenge my self in creating a very basic Color Chang
 ## 🛠 Technologies Used
 
 - HTML - Hyper Text Markup Language
-- CSS - Cascadeing Spread Sheet
+- CSS - Cascading Style Sheets
 - JS - Java Script
 
 ## Run
